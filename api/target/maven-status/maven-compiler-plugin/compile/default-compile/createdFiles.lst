@@ -2,5 +2,6 @@ org\openmrs\module\dssmodule\api\impl\DssmoduleServiceImpl.class
 org\openmrs\module\dssmodule\api\DssmoduleService.class
 org\openmrs\module\dssmodule\DssmoduleConfig.class
 org\openmrs\module\dssmodule\Item.class
+org\openmrs\module\dssmodule\Dss.class
 org\openmrs\module\dssmodule\api\dao\DssmoduleDao.class
 org\openmrs\module\dssmodule\DssmoduleActivator.class

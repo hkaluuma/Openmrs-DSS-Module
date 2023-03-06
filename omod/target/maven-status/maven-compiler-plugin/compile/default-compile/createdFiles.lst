@@ -1,2 +1,3 @@
 org\openmrs\module\dssmodule\extension\html\AdminList.class
+org\openmrs\module\dssmodule\DssResource.class
 org\openmrs\module\dssmodule\web\controller\DssmoduleController.class
